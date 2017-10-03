@@ -1,5 +1,5 @@
 This GitHub repository contains files used by and explained in Wilson Mar's
-Git and GitHub course taken by ME.
+Git and GitHub course taken by ME at STARWEST.
 
 There are two editions of scripts in this repo.
 
